@@ -1,0 +1,8 @@
+display-name-zh: 快慢机影视工业全链路制作
+version: 0.2.0
+tag-en: "Visual Creation / Storyboard"
+tag-cn: "视觉创作 / 图像生成"
+summary-en: "Stage-gated chain from blocking truth to storyboard and video prompts."
+summary-cn: "全自动&半自动分阶段强制执行的影视全链路"
+desc-en: "A stage-gated control skill that turns scripts or production plans into story summaries, blocking sheets, stage maps, black-and-white 2x4 storyboards, and video prompts. It enforces immutable prompt blocks, stage-scoped truth sources, coordinate locks, asset isolation, and fail-fast recovery across global, asset, storyboard, video, and fuse stages."
+desc-cn: "一个分阶段强制执行的前期总控技能：从剧本或制作计划串联故事板概要、场景调度表、舞台定位图、黑白 2x4 分镜与视频提示词，并通过不可变 Prompt 块、坐标真值、资产隔离与熔断机制保证链路稳定。"
